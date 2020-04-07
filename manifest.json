@@ -1,0 +1,8 @@
+{
+  "domain": "baidu_face_identify",
+  "name": "Baidu Face Identify",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@horga"]
+}
